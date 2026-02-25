@@ -1,14 +1,11 @@
-```md
 <h1 align="center">Hey there 👋, I'm Pranam</h1>
 
-<h3 align="center">
+<p align="center">
 A Data Science student | Aspiring Data Analyst | Tech Enthusiast
-</h3>
+</p>
 
 <p align="center">
-Focus • Data Science &nbsp;&nbsp;|&nbsp;&nbsp;
-Learning • Everyday &nbsp;&nbsp;|&nbsp;&nbsp;
-Status • Building Projects
+<b>Focus:</b> Data Science • Learning Everyday • Building Projects
 </p>
 
 ---
@@ -24,18 +21,31 @@ Status • Building Projects
 ## 🛠️ Skills & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/JAVA-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/PYTHON-lightgrey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/EXCEL-grey?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/POWER%20BI-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## 📌 Current Focus
 
-- 🔹 Power BI
-- 🔹 Python libraries
-- 🔹 Data analysis processes
-- 🔹 Building real projects
-```
+- 🔹 Power BI  
+- 🔹 Python Libraries  
+- 🔹 Data Analysis Processes  
+- 🔹 Building Real Projects
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/yourusername
+- LinkedIn: Add later
+- Portfolio: Add later
+
+---
+
+⭐ *Always learning. Always building.*
