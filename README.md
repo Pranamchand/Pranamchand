@@ -48,7 +48,7 @@ A Data Science student | Aspiring Data Analyst | Tech Enthusiast
 
 - GitHub: https://github.com/Pranamchand
 - LinkedIn: https://www.linkedin.com/in/pranamchand
-- Portfolio: Add later
+- Portfolio: https://pranamchand.github.io/
 
 ---
 
