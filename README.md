@@ -1,4 +1,7 @@
-<h1 align="center">Hi, I'm Pranam Chand
+<h1 align="center">
+  Hey There 👋,<br>
+  I am <span style="color: #00C2FF; font-size: 1.2em;">Pranam</span>
+</h1>
 
 <p align="center">
   <a href="https://github.com/Pranamchand">
@@ -49,12 +52,8 @@
   <img src="https://img.icons8.com/ios-filled/100/000000/brain.png" height="40" alt="Machine Learning" title="Machine Learning" />
 </p>
 
-### 🌌 AI & Development Vibes
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" width="45%" />
-  &nbsp; &nbsp;
-  <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/machine-learning.gif" alt="Machine Learning GIF" width="45%" />
+  <img src="7b871cee4ff324b9cc17ea028b4074ce.webp" alt="Banner" width="100%" />
 </p>
 
 ---
