@@ -44,7 +44,7 @@
 
 ## 📌 Current Focus
 
-- 🔹 Power BI
+- 🔹 ML
 - 🔹 Data Analysis Processes
 - 🔹 Building Real Projects
 
