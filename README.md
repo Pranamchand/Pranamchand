@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hey There 👋,<br>
-  I am <span style="color: #00C2FF; font-size: 1.2em;">Pranam</span>
+  Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />,<br>
+  I am <code>Pranam</code>
 </h1>
 
 <p align="center">
@@ -22,13 +22,10 @@
 **Aspiring Data Scientist**  
 *Focused on turning raw data into meaningful insights and solving real-world problems.*
 
-- 🔭 **Currently Working On:** Learning Data Science and Machine Learning, building real projects, and improving problem-solving & coding skills.
-- 🌱 **Learning:** Advanced analysis, programming, and AI/ML experiments.
-- ⚡ **Projects Include:** Data analysis, data cleaning, visualization work, and small but consistent build-and-learn projects.
-- 📫 **Connect With Me:**
-  <a href="https://www.linkedin.com/in/pranamchand"><img src="https://img.icons8.com/color/48/linkedin.png" height="30" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"/></a> &nbsp;
-  <a href="https://pranamchand.github.io/"><img src="https://img.icons8.com/color/48/domain--v1.png" height="30" alt="Portfolio" title="Portfolio" style="vertical-align: middle;"/></a> &nbsp;
-  <a href="https://github.com/Pranamchand"><img src="https://img.icons8.com/fluency/48/github.png" height="30" alt="GitHub" title="GitHub" style="vertical-align: middle;"/></a>
+-🔭 **Currently Working On**: Strengthening my skills in Data Science and Machine Learning through hands-on projects while continuously improving my problem-solving and programming abilities.
+- 🌱 **Learning:** Data analysis, machine learning, programming, and practical AI applications.
+- ⚡ **Projects Include:** Data analysis, data cleaning, data visualization, machine learning, and continuous project-based learning.
+- 📫 **Connect With Me:** <a href="https://www.linkedin.com/in/pranamchand"><img src="https://img.icons8.com/color/48/linkedin.png" height="30" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"/></a> &nbsp; <a href="https://pranamchand.github.io/"><img src="https://img.icons8.com/fluency/48/website.png" height="30" alt="Portfolio" title="Portfolio" style="vertical-align: middle;"/></a> &nbsp; <a href="https://github.com/Pranamchand"><img src="https://img.icons8.com/fluency/48/github.png" height="30" alt="GitHub" title="GitHub" style="vertical-align: middle;"/></a>
 
 ### 🛠️ Tech Arsenal
 
@@ -36,20 +33,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R Language" title="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" title="Pandas" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" title="Seaborn" />
+  <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="40" alt="Excel" title="Excel" />
   <img src="https://img.icons8.com/color/96/power-bi.png" height="40" alt="Power BI" title="Power BI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" title="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" height="40" alt="Google Colab" title="Google Colab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
   <img src="https://img.icons8.com/color/96/chatgpt.png" height="40" alt="ChatGPT" title="ChatGPT" />
   <img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" height="40" alt="AI Studio" title="AI Studio" />
-  <img src="https://img.icons8.com/ios-filled/100/000000/brain.png" height="40" alt="Machine Learning" title="Machine Learning" />
+  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/flash-on.png" height="40" alt="Antigravity" title="Antigravity" />
+  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/brain.png" height="40" alt="Machine Learning" title="Machine Learning" />
 </p>
 
 <p align="center">
