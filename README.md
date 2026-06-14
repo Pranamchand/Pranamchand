@@ -1,4 +1,4 @@
-<h1 align="center">Pranam Chand
+<h1 align="center">Hi, I'm Pranam Chand
 
 <p align="center">
   <a href="https://github.com/Pranamchand">
