@@ -22,14 +22,15 @@
 **Aspiring Data Scientist**  
 *Focused on turning raw data into meaningful insights and solving real-world problems.*
 
--🔭 **Currently Working On**: Strengthening my skills in Data Science and Machine Learning through hands-on projects while continuously improving my problem-solving and programming abilities.
+- 🔭 **Currently Working On**: Strengthening my skills in Data Science and Machine Learning through hands-on projects while continuously improving my problem-solving and programming abilities.
 - 🌱 **Learning:** Data analysis, machine learning, programming, and practical AI applications.
 - ⚡ **Projects Include:** Data analysis, data cleaning, data visualization, machine learning, and continuous project-based learning.
-- 📫 **Connect With Me:** <a href="https://www.linkedin.com/in/pranamchand"><img src="https://img.icons8.com/color/48/linkedin.png" height="30" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"/></a> &nbsp; <a href="https://pranamchand.github.io/"><img src="https://img.icons8.com/fluency/48/website.png" height="30" alt="Portfolio" title="Portfolio" style="vertical-align: middle;"/></a> &nbsp; <a href="https://github.com/Pranamchand"><img src="https://img.icons8.com/fluency/48/github.png" height="30" alt="GitHub" title="GitHub" style="vertical-align: middle;"/></a>
+- 
+- 📫 **Connect With Me:** <a href="https://www.linkedin.com/in/pranamchand"><img src="https://img.icons8.com/color/48/linkedin.png" height="30" alt="LinkedIn" title="LinkedIn" style="vertical-align: middle;"/></a> &nbsp; <a href="https://pranamchand.github.io/"><img src="favicon.svg" height="30" alt="Portfolio" title="Portfolio" style="vertical-align: middle;"/></a> &nbsp; <a href="https://github.com/Pranamchand"><img src="https://img.icons8.com/fluency/48/github.png" height="30" alt="GitHub" title="GitHub" style="vertical-align: middle;"/></a>
 
-### 🛠️ Tech Arsenal
+<h3 align="center">🛠️ Tech Arsenal</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R Language" title="R" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" title="Java" />
@@ -38,6 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" title="NumPy" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib" title="Matplotlib" />
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="Seaborn" title="Seaborn" />
+  <img src="https://img.icons8.com/color/96/sql.png" height="40" alt="SQL" title="SQL" />
   <br><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="40" alt="Excel" title="Excel" />
@@ -50,6 +52,7 @@
   <img src="https://img.icons8.com/ios-filled/100/FFFFFF/flash-on.png" height="40" alt="Antigravity" title="Antigravity" />
   <img src="https://img.icons8.com/ios-filled/100/FFFFFF/brain.png" height="40" alt="Machine Learning" title="Machine Learning" />
 </p>
+
 
 <p align="center">
   <img src="7b871cee4ff324b9cc17ea028b4074ce.webp" alt="Banner" width="100%" />
